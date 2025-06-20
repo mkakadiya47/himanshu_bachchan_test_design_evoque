@@ -1,4 +1,4 @@
-<h1 id="-booking-dashboard-react-mui-upwork-demo-project">🧾 Booking Dashboard (React + MUI) – Upwork Demo Project</h1>
+<h1 id="-himanshu_bachchan_test_design_evoque-react-mui-upwork-demo-project">🧾 Booking Dashboard (React + MUI) – Upwork Demo Project</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Built%20With-Vite-646CFF?logo=vite" alt="Vite">
     <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react" alt="React">
@@ -107,7 +107,7 @@
     <li>Node.js v23+ (tested on v23.7.0)</li>
     <li>npm or yarn</li>
 </ul>
-<p>```bash git clone <a href="https://github.com/mkakadiya47/booking-dashboard.git">https://github.com/mkakadiya47/booking-dashboard.git</a> cd booking-dashboard npm install npm run dev</p>
+<p>```bash git clone <a href="https://github.com/mkakadiya47/himanshu_bachchan_test_design_evoque.git">https://github.com/mkakadiya47/himanshu_bachchan_test_design_evoque.git</a> cd himanshu_bachchan_test_design_evoque npm install npm run dev</p>
 
 <h2>🚀 Live Demo</h2>
 
