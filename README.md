@@ -107,7 +107,10 @@
     <li>Node.js v23+ (tested on v23.7.0)</li>
     <li>npm or yarn</li>
 </ul>
-<p>```bash git clone <a href="https://github.com/mkakadiya47/himanshu_bachchan_test_design_evoque.git">https://github.com/mkakadiya47/himanshu_bachchan_test_design_evoque.git</a> cd himanshu_bachchan_test_design_evoque npm install npm run dev</p>
+<p><code>git clone https://github.com/mkakadiya47/himanshu_bachchan_test_design_evoque.git</code></p>
+<p><code>cd himanshu_bachchan_test_design_evoque</code></p>
+<p><code>npm install</code></p>
+<p><code>npm run dev</code></p>
 
 <h2>🚀 Live Demo</h2>
 
