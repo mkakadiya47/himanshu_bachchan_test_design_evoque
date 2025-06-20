@@ -107,7 +107,7 @@
     <li>Node.js v23+ (tested on v23.7.0)</li>
     <li>npm or yarn</li>
 </ul>
-<p>```bash git clone <a href="https://github.com/mkakadiya47/booking-dashboard.git">https://github.com/yourusername/booking-dashboard.git</a> cd booking-dashboard npm install npm run dev</p>
+<p>```bash git clone <a href="https://github.com/mkakadiya47/booking-dashboard.git">https://github.com/mkakadiya47/booking-dashboard.git</a> cd booking-dashboard npm install npm run dev</p>
 
 <h2>🚀 Live Demo</h2>
 
